@@ -13,18 +13,6 @@ pip install -r requirements.txt
 python setup.py develop --no_cuda_ext
 ```
 
-# 快速上手
-
-* Datasets
-  - LoLv2数据集
-  - 预处理
-
-```
-# 先设置数据集路径，然后运行任何一条函数，生产lmdb文件
-python basicsr/utils/create_lmdb.py
-```
-
-* Train:
 
 ```
 # 设置yml文件的数据集路径和超参数
