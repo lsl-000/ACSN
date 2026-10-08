@@ -1,3 +1,5 @@
+![arch](FIg/CVA.jpg)
+
 # 环境安装
 
 This implementation based on [BasicSR](https://github.com/xinntao/BasicSR) which is a open source toolbox for image/video restoration tasks and [HINet](https://github.com/megvii-model/HINet) 
