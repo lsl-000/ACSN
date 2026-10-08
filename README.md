@@ -14,7 +14,4 @@ python setup.py develop --no_cuda_ext
 ```
 
 
-```
-# 设置yml文件的数据集路径和超参数
-python basicsr/tarin.py -opt options/train/DarkIR.yml
-```s
+
